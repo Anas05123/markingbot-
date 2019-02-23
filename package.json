@@ -1,0 +1,14 @@
+{
+  "name": "markingbot-codes",
+  "version": "1.0.0",
+  "description": "This Bot For Share Codes And have Other Orders... you will looked it when you add the bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markingbot",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
